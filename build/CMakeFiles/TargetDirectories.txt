@@ -1,0 +1,3 @@
+/home/elliem/cpp/Window/build/CMakeFiles/Window.dir
+/home/elliem/cpp/Window/build/CMakeFiles/edit_cache.dir
+/home/elliem/cpp/Window/build/CMakeFiles/rebuild_cache.dir
